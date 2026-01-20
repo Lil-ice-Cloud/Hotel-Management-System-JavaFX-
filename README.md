@@ -29,3 +29,9 @@ It provides functionality for user registration, login, and secure password hand
 1. Clone the repository:
    ```bash
    git clone https://github.com/Lil-ice-Cloud/Hotel-Management-System-JavaFX-.git
+
+---
+
+👉 You can copy this into a file named **`README.md`** in your project root, commit it, and push to GitHub.  
+
+Would you like me to also create a **shorter version** (just overview + setup) for a lightweight README, or keep this full detailed one?
